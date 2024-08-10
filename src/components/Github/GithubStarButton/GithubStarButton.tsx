@@ -5,7 +5,7 @@ const StarButton = () => (
     </p>
     <a
       className="github-button"
-      href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+      href="https://github.com/HamzaAmir97/react-shopping-cart"
       data-icon="octicon-star"
       data-size="large"
       data-show-count="true"
