@@ -2,7 +2,7 @@ import * as S from './style';
 
 const GithubCorner = () => (
   <S.Container
-    href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+    href="https://github.com/HamzaAmir97/react-shopping-cart"
     aria-label="View source on Github"
   >
     <svg
