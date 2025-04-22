@@ -1,4 +1,4 @@
-# 🛍️ React Shopping Cart [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
+# 🛍️ React Shopping Cart 
 
 <p align="center">
   <img src="./readme-banner.png" alt="React Shopping Cart Demo">
